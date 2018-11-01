@@ -1,2 +1,2 @@
 # Lab_SecuritateaDatelor
-Teme
+Acest repository este dedicat temelor laboratorului de Securitatea Datelor.
