@@ -72,7 +72,7 @@ int caesarDecrypt() {
 		}
 		else if (ch >= 'A' && ch <= 'Z') {
 			ch -= key;
-			if (ch <'A') {
+			if (ch < 'A') {
 				ch = ch + 'Z' - 'A' + 1;
 			}
 		text[i] = ch;
